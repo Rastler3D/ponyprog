@@ -1,2 +1,3 @@
 spec: .gear/ponyprog.spec
 tar.gz: v@version@:.
+tar.gz: 64f50820118c450ab49ae63bfd9b143eb1971058:.  name=qhexedit2
